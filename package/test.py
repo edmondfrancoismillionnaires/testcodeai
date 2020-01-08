@@ -12,3 +12,7 @@ def hamza_graph(n):
         return 0
     else:
         return 1
+    
+    
+def something(n):
+    return n < -3 or n > 30
